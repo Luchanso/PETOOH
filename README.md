@@ -23,7 +23,7 @@ Basics
     </tr>
     <tr>
         <td>Kukarek</td>
-        <td>output the byte at the data pointer as an ASCII encoded character</td>
+        <td>Выводит на экран байт, на который установлен указатель, в виде ASCII символа</td>
     </tr>
     <tr>
         <td>Kud</td>
