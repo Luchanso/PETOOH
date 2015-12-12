@@ -15,11 +15,11 @@ Basics
     </tr>
     <tr>
         <td>Ko</td>
-        <td>increment (increase by one) the byte at the data pointer</td>
+        <td>Инкрементирует байт, на который установлен указатель</td>
     </tr>
     <tr>
         <td>kO</td>
-        <td>decrement (decrease by one) the byte at the data pointer</td>
+        <td>Декрементирует байт, на который установлен указатель</td>
     </tr>
     <tr>
         <td>Kukarek</td>
