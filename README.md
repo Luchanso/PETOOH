@@ -27,11 +27,11 @@ Basics
     </tr>
     <tr>
         <td>Kud</td>
-        <td>if the byte at the data pointer is zero, then instead of moving the instruction pointer forward to the next command</td>
+        <td>Выполняет следующую команду до тех пор, пока указатель не перестанет смотреть на ноль (своеобразный цикл)</td>
     </tr>
     <tr>
         <td>kud</td>
-        <td>if the byte at the data pointer is nonzero, then instead of moving the instruction pointer forward to the next command</td>
+        <td>Конец своеобразного цикла</td>
     </tr>
 </table>
 
