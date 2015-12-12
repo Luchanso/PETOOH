@@ -7,11 +7,11 @@ Basics
 <table>
     <tr>
         <td>Kudah</td>
-        <td>increment the data pointer (to point to the next cell to the right)</td>
+        <td>Передвигает указатель на другую ячейку памяти (инкремент)</td>
     </tr>
     <tr>
         <td>kudah</td>
-        <td>decrement the data pointer (to point to the next cell to the left)</td>
+        <td>Передвигает указатель на другую ячейку памяти (декиремнт)</td>
     </tr>
     <tr>
         <td>Ko</td>
